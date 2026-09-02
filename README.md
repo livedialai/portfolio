@@ -156,6 +156,7 @@ Entwicklung mit KI-Beschleunigung (4–8×), aber mit eigener Architektur-Verant
 - **~5,55 Mio. Zeilen Quellcode**, davon ~3,8 Mio. eigene Entwicklung und eigene Anpassungen (Rest: Upstream-Forks).
 - **Produktivbetrieb:** SIP-Telefonanlage mit KI-Agent, Reservierungs-SaaS mit WhatsApp, Taxi-Vermittlung, Creator-SaaS, KI-Appliances, Behörden-Übersetzer — mehrere Systeme parallel live, mit echten Kunden und Zahlungsverkehr.
 - **Sprachversionen der Systeme:** DE/EN/ES/RU; WP-Websites mehrsprachig.
+- **Content-Systeme:** **pizzafamily.de** — 10 Sprachvarianten (de, en, fr, it, pl, ro, ru, tr, uk, ar), **~950 Seiten**, WordPress/Polylang, komplett im letzten Monat aufgebaut (per Sitemap verifiziert).
 
 ## Tech-Stack (Nachweis im Code, keine Verallgemeinerungen)
 
