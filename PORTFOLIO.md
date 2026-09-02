@@ -1375,3 +1375,7 @@ g
 M
 B
 )
+
+## Anhang C: Websites außerhalb der Repo-Liste
+- **pizzafamily.de** — WordPress/Polylang, 10 Sprachvarianten (de, en, fr, it, pl, ro, ru, tr, uk, ar), ~950 Seiten (per Sitemap verifiziert), komplett im letzten Monat aufgebaut; inkl. greviews (Google-Reviews-Slider, produktiv).
+- **GoFonIA.de / gofonia-website** — Landing Page + Meetergo-Sovereignty-Scan-Proxy (siehe Sektion GoFonIA Web).
