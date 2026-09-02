@@ -1,5 +1,5 @@
 # Thomas Barthel — Voice-AI-Architekt & Produktentwickler
-**Bremerhaven · weser-ai.de · info@weser-ai.de**
+**Bremerhaven · [weser-ai.de](https://weser-ai.de) · info@weser-ai.de**
 
 ---
 
@@ -28,7 +28,7 @@ Gesucht wird / gesucht habe ich: **Senior Voice-AI Engineer · AI-Telefonie-Arch
 
 ---
 
-*Kontakt: Weser AI · Thomas Barthel · Lloydstr. 11, 27568 Bremerhaven · info@weser-ai.de*
+*Kontakt: Weser AI · Thomas Barthel · Lloydstr. 11, 27568 Bremerhaven · [weser-ai.de](https://weser-ai.de) · info@weser-ai.de*
 
 ---
 
@@ -173,7 +173,7 @@ Entwicklung mit KI-Beschleunigung (4–8×), aber mit eigener Architektur-Verant
 1. **GoFonIA** — Multi-Tenant-KI-Telefonanlage (OpenSIPS + LiveKit + Agent, RAG, Mollie-Billing, Tenant-Portal) → *Betrieb auf eigenen Servern, Kunden-Agentur-Vertrieb*.
 2. **LINGU-COP** — Behörden-Simultanübersetzer (105 Sprachen, Protokoll, Schweizer RZ) → *Demo-Betrieb für Dienststellen*.
 3. **GoDinIA** — Restaurant-Reservierung mit WhatsApp-Bridge (Waxum) and Bondrucker-Kasse → *Kunden-Betrieb (Restaurant, ~2.900 € Projektvolumen)*.
-4. **Weser-AI-Appliances** — Branchen-Cubes (Recht/Medizin/Pflege/Bildung) mit 25–44 Modulen, §203-StGB-konform → *Produktlinie weser-ai.de*.
+4. **Weser-AI-Appliances** — Branchen-Cubes (Recht/Medizin/Pflege/Bildung) mit 25–44 Modulen, §203-StGB-konform → *Produktlinie [weser-ai.de](https://weser-ai.de)*.
 5. **FastCab** — Mietwagen-Vermittlung (Dispatch, PWA, Zahlung) → *live unter fastcab.eu*.
 
 ## Was ich suche
@@ -184,7 +184,7 @@ Als **Senior Voice-AI-Engineer / AI-Telefonie-Architekt** oder als **Produktentw
 
 **Weser AI · Inhaber Thomas Barthel**
 Lloydstr. 11 · 27568 Bremerhaven
-📧 info@weser-ai.de · 🌐 weser-ai.de
+📧 info@weser-ai.de · 🌐 [weser-ai.de](https://weser-ai.de)
 📞 01575-5552835 (Geschäftsführung)
 
 *Portfolio-Dokumentation (vollständig): /root/portfolio/PORTFOLIO.md · Unterlagen auf Anfrage.*
