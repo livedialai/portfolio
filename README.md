@@ -184,7 +184,7 @@ Als **Senior Voice-AI-Engineer / AI-Telefonie-Architekt** oder als **Produktentw
 
 **Weser AI · Inhaber Thomas Barthel**
 Lloydstr. 11 · 27568 Bremerhaven
-📧 info@weser-ai.de · 🌐 www.weser-ai.de
+📧 info@weser-ai.de · 🌐 weser-ai.de
 📞 01575-5552835 (Geschäftsführung)
 
 *Portfolio-Dokumentation (vollständig): /root/portfolio/PORTFOLIO.md · Unterlagen auf Anfrage.*
