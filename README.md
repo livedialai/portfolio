@@ -15,7 +15,7 @@ Ich baue Sprach-KI-Produkte: vollständige, produktiv laufende Systeme für Tele
 
 | Kennzahl | Wert |
 |---|---|
-| Eigene Repositories | 147 (GitHub + Codeberg, seit 2026 dokumentiert) |
+| Repositories | 147 eigenständige (von 154 gesamt: 67 GitHub + 92 Codeberg) |
 | Quellcode gesamt | ~5,55 Mio. Zeilen (davon ~3,8 Mio. Zeilen eigene Entwicklung; Rest Upstream-Forks mit eigenen Anpassungen) |
 | Projektfamilien | 19 (Versionsreihen je Familie) |
 | Produktive Systeme | GoFonIA (SIP-Telefonanlage + LiveKit-Agent), GoDinIA (Reservierungs-SaaS mit WhatsApp-Bridge), FastCab (Taxi-Vermittlung), FanMall/FanVue (Creator-SaaS), Weser-AI-Appliances, LINGU-COP (Behörden-Dolmetscher), Star Food (Pizza-Lieferservice mit Telegram-Bestellbot) |
@@ -24,7 +24,7 @@ Ich baue Sprach-KI-Produkte: vollständige, produktiv laufende Systeme für Tele
 
 ## Positionierung für Bewerbungen
 
-Gesucht wird / gesucht habe ich: **Senior Voice-AI Engineer · AI-Telefonie-Architekt · Produktentwickler für KI-SaaS** — mit vollständiger Verantwortung von der Architektur bis zum Livebetrieb. Ich ersetze keine bestehende Rolle, ich baue das System dahinter auf.
+Gesucht: **Senior Voice-AI Engineer · AI-Telefonie-Architekt · Produktentwickler für KI-SaaS** — gerne hybrid, mit voller Architektur- und Betriebsverantwortung. Ich ersetze keine bestehende Rolle, ich baue das System dahinter auf. Anwendungsfälle: Sprachagenten in Vertrieb/Service, Telefonie-Automatisierung für Kanzleien/Praxen/Behörden, On-Premise-KI in regulierten Branchen, Aufbau von KI-Funktionsbereichen.
 
 ---
 
@@ -32,11 +32,7 @@ Gesucht wird / gesucht habe ich: **Senior Voice-AI Engineer · AI-Telefonie-Arch
 
 ---
 
-# Kernkompetenz: Voice-AI & Sprachsysteme
-
-**Thomas Barthel · Bremerhaven**
-
----
+## Kernkompetenz: Voice-AI & Sprachsysteme
 
 ## Was ich vollständig selbst baue, betreibe und liefere
 
@@ -62,11 +58,7 @@ Beratung, Architektur, Modell- und Stack-Vergleich (TTFT/Latenz, Kosten, Datensc
 
 ---
 
-# Kernkompetenz: KI-Appliances & Datensouveränität
-
-**Thomas Barthel · Weser AI · Bremerhaven**
-
----
+## Kernkompetenz: KI-Appliances & Datensouveränität
 
 ## Produktlinie: Branchenspezifische KI-Appliances (Weser AI)
 
@@ -105,11 +97,7 @@ Ich beherrsche beides: die **technische Tiefe** (von SIP-Trunk bis Modell-Finetu
 
 ---
 
-# Kernkompetenz: SaaS- & Plattform-Engineering
-
-**Thomas Barthel · Bremerhaven**
-
----
+## Kernkompetenz: SaaS- & Plattform-Engineering
 
 ## Ich entwickle Multi-Tenant-Produkte mit kompletten Zahlungs- und Betriebsflüssen
 
@@ -123,7 +111,7 @@ Neben der Telefonie-Achse stehen eigene SaaS-Produkte in Betrieb — jeweils mit
 **FastCab — Vermittlungsplattform für Mietwagenfahrten (MVP live, fastcab.eu)**
 - Fahrgast-Portal (PWA), Fahrer-App, WordPress-Backend als Admin-Schicht, Node-Express-Worker als API; Dispatch-Matching (Haversine-Radius + ETA-Sortierung + Stammfahrer-Priorität), WhatsApp-Angebote, Trip-Statusmaschine, Zahlung via Mollie/SumUp, km-Staffelpreise.
 
-**GoFonIA — KI-Telefonie-SaaS (s. Seite 2)**, inkl. Support-Tools: Tenant-Portal (Kundencenter), Affiliate-/Partner-System mit WP-Plugin, Betriebs- und Backup-Skripte.
+**GoFonIA — KI-Telefonie-SaaS** (s. Abschnitt „Voice-AI & Sprachsysteme“), inkl. Support-Tools: Tenant-Portal (Kundencenter), Affiliate-/Partner-System mit WP-Plugin, Betriebs- und Backup-Skripte.
 
 **Creator-Stack (FanMall/FanVue)** — Plattform für Creator-Marketing: Webhooks, OAuth2+PKCE, HMAC-Signaturen, Autogramm-Rendering, Bild- und Vault-Verwaltung, PPV-Strategie-Engine, Telegram-Admin-Konsole (rollenbasierte Zugänge), mehrsprachige Landingpages (DE/EN/ES/FR/IT), Paketpreis-Modell 29/79/149 €.
 
@@ -144,15 +132,11 @@ Entwicklung mit KI-Beschleunigung (4–8×), aber mit eigener Architektur-Verant
 
 ---
 
-# Nachweis & Handwerk — Fakten, Stack, Referenzen
-
-**Thomas Barthel · Weser AI · Lloydstr. 11, 27568 Bremerhaven · info@weser-ai.de**
-
----
+## Nachweis & Handwerk — Fakten, Stack, Referenzen
 
 ## Leistungsnachweis (Stand 09/2026, aus eigenem Quellcode-Archiv gemessen)
 
-- **147 eigene Repositories** auf GitHub + Codeberg, konsolidiert in **19 Projektfamilien** — die Dokumentation dazu liegt als Portfolio vor (PORTFOLIO.md, 1.377 Zeilen).
+- **147 eigenständige Repositories** (von 154 gesamt) auf GitHub + Codeberg, konsolidiert in **19 Projektfamilien** — die Dokumentation dazu liegt als Portfolio vor (PORTFOLIO.md).
 - **~5,55 Mio. Zeilen Quellcode**, davon ~3,8 Mio. eigene Entwicklung und eigene Anpassungen (Rest: Upstream-Forks).
 - **Produktivbetrieb:** SIP-Telefonanlage mit KI-Agent, Reservierungs-SaaS mit WhatsApp, Taxi-Vermittlung, Creator-SaaS, KI-Appliances, Behörden-Übersetzer — mehrere Systeme parallel live, mit echten Kunden und Zahlungsverkehr.
 - **Sprachversionen der Systeme:** DE/EN/ES/RU; WP-Websites mehrsprachig.
@@ -173,20 +157,15 @@ Entwicklung mit KI-Beschleunigung (4–8×), aber mit eigener Architektur-Verant
 
 1. **GoFonIA** — Multi-Tenant-KI-Telefonanlage (OpenSIPS + LiveKit + Agent, RAG, Mollie-Billing, Tenant-Portal) → *Betrieb auf eigenen Servern, Kunden-Agentur-Vertrieb*.
 2. **LINGU-COP** — Behörden-Simultanübersetzer (105 Sprachen, Protokoll, Schweizer RZ) → *Demo-Betrieb für Dienststellen*.
-3. **GoDinIA** — Restaurant-Reservierung mit WhatsApp-Bridge (Waxum) and Bondrucker-Kasse → *Kunden-Betrieb (Restaurant, ~2.900 € Projektvolumen)*.
+3. **GoDinIA** — Restaurant-Reservierung mit WhatsApp-Bridge (Waxum) and Bondrucker-Kasse → *Kunden-Betrieb (Restaurant)*.
 4. **Weser-AI-Appliances** — Branchen-Cubes (Recht/Medizin/Pflege/Bildung) mit 25–44 Modulen, §203-StGB-konform → *Produktlinie [weser-ai.de](https://weser-ai.de)*.
 5. **FastCab** — Mietwagen-Vermittlung (Dispatch, PWA, Zahlung) → *live unter fastcab.eu*.
 6. **Star Food** (starfood.pizza) — Pizza-Lieferservice: WooCommerce-Shop mit entfernungsbasierten Lieferzonen (Geoapify-Plugin, 5 Zonen + Mindestbestellwert) und Telegram-Bestellbot (telegraf, WooCommerce-REST, COD + SumUp) → *live unter starfood.pizza*.
-
-## Was ich suche
-
-Als **Senior Voice-AI-Engineer / AI-Telefonie-Architekt** oder als **Produktentwickler für KI-SaaS** — gerne hybrid, mit voller Architektur- und Betriebsverantwortung. Anwendungsfälle: Sprachagenten im Vertrieb/Service, Telefonie-Automatisierung für Kanzleien/Praxen/Behörden, On-Premise-KI in regulierten Branchen, Aufbau von KI-Funktionsbereichen.
 
 ## Kontakt
 
 **Weser AI · Inhaber Thomas Barthel**
 Lloydstr. 11 · 27568 Bremerhaven
 📧 info@weser-ai.de · 🌐 [weser-ai.de](https://weser-ai.de)
-📞 01575-5552835 (Geschäftsführung)
 
 *Vollständige Portfolio-Dokumentation: [PORTFOLIO.md](PORTFOLIO.md) · Unterlagen auf Anfrage.*
