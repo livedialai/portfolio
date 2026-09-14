@@ -18,7 +18,7 @@ Ich baue Sprach-KI-Produkte: vollständige, produktiv laufende Systeme für Tele
 | Eigene Repositories | 147 (GitHub + Codeberg, seit 2026 dokumentiert) |
 | Quellcode gesamt | ~5,55 Mio. Zeilen (davon ~3,8 Mio. Zeilen eigene Entwicklung; Rest Upstream-Forks mit eigenen Anpassungen) |
 | Projektfamilien | 19 (Versionsreihen je Familie) |
-| Produktive Systeme | GoFonIA (SIP-Telefonanlage + LiveKit-Agent), GoDinIA (Reservierungs-SaaS mit WhatsApp-Bridge), FastCab (Taxi-Vermittlung), FanMall/FanVue (Creator-SaaS), Weser-AI-Appliances, LINGU-COP (Behörden-Dolmetscher) |
+| Produktive Systeme | GoFonIA (SIP-Telefonanlage + LiveKit-Agent), GoDinIA (Reservierungs-SaaS mit WhatsApp-Bridge), FastCab (Taxi-Vermittlung), FanMall/FanVue (Creator-SaaS), Weser-AI-Appliances, LINGU-COP (Behörden-Dolmetscher), Star Food (Pizza-Lieferservice mit Telegram-Bestellbot) |
 | Plattformen | On-Premise-Appliance · Eigene Server · Docker/PM2 · WordPress-Ökosystem · Cloud-RZ (ISO 27001) |
 | Sprachen/Stack | Python, TypeScript/JS, Rust, PHP, Astro, React; SIP/RTP, LiveKit, ViciDial, Asterisk, OpenSIPS; PostgreSQL, MySQL, MariaDB, SQLite, Redis, MongoDB; LLM-APIs (OpenAI-kompatibel, DeepSeek, Mistral, Grok), STT (Deepgram, Parakeet), TTS (Inworld, Qwen3, ElevenLabs) |
 
@@ -176,6 +176,7 @@ Entwicklung mit KI-Beschleunigung (4–8×), aber mit eigener Architektur-Verant
 3. **GoDinIA** — Restaurant-Reservierung mit WhatsApp-Bridge (Waxum) and Bondrucker-Kasse → *Kunden-Betrieb (Restaurant, ~2.900 € Projektvolumen)*.
 4. **Weser-AI-Appliances** — Branchen-Cubes (Recht/Medizin/Pflege/Bildung) mit 25–44 Modulen, §203-StGB-konform → *Produktlinie [weser-ai.de](https://weser-ai.de)*.
 5. **FastCab** — Mietwagen-Vermittlung (Dispatch, PWA, Zahlung) → *live unter fastcab.eu*.
+6. **Star Food** (starfood.pizza) — Pizza-Lieferservice: WooCommerce-Shop mit entfernungsbasierten Lieferzonen (Geoapify-Plugin, 5 Zonen + Mindestbestellwert) und Telegram-Bestellbot (telegraf, WooCommerce-REST, COD + SumUp) → *live unter starfood.pizza*.
 
 ## Was ich suche
 
@@ -188,4 +189,4 @@ Lloydstr. 11 · 27568 Bremerhaven
 📧 info@weser-ai.de · 🌐 [weser-ai.de](https://weser-ai.de)
 📞 01575-5552835 (Geschäftsführung)
 
-*Portfolio-Dokumentation (vollständig): /root/portfolio/PORTFOLIO.md · Unterlagen auf Anfrage.*
+*Vollständige Portfolio-Dokumentation: [PORTFOLIO.md](PORTFOLIO.md) · Unterlagen auf Anfrage.*
