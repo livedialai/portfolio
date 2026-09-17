@@ -1,4 +1,4 @@
-# Thomas Barthel — Voice-AI-Architekt & Produktentwickler
+# Giacomo Steckhan — Voice-AI-Architekt & Produktentwickler
 **Bremerhaven · [weser-ai.de](https://weser-ai.de) · info@weser-ai.de**
 
 ---

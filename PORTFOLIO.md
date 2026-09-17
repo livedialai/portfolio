@@ -1,6 +1,6 @@
 # GoFonIA / livedialai — Entwicklungs-Portfolio
 
-**Stand:** 2026-09-02 · **Erstellt:** Hermes Agent · **Umfang:** alle Repositories von Thomas (GitHub `livedialai` + Codeberg `gofonia`)
+**Stand:** 2026-09-02 · **Erstellt:** Hermes Agent · **Umfang:** alle Repositories von Giacomo (GitHub `livedialai` + Codeberg `gofonia`)
 
 ## Überblick
 
@@ -911,7 +911,7 @@ Geprüft: README.md (englisch) und `docs/README_de.md` (deutsche Übersetzung) b
 
 ### cal
 - Standort Codeberg: https://codeberg.org/gofonia/cal · Sprachen TSX 49.159, JSON 44.869, TypeScript 18.330 · 121.254 LOC, 2.171 Dateien · angelegt 2026-06-16
-- Kompletter Fork von cal.com (Open-Source-Calendly-Alternative, AGPLv3). **Lokale Anpassung nachweisbar:** ein Commit von Thomas Barthel – „fix: disable SAML auto-signIn, redirect /auth/login to /auth/admin-login“ (entfernt die `signIn("saml")`-Schleife; Login-Loop-Fix für Self-Hosted-Betrieb ohne SAML). Keine weiteren erkennbaren Code-Änderungen; Sicht auf `apps/` (web, storybook, swagger, docs) entspricht Upstream.
+- Kompletter Fork von cal.com (Open-Source-Calendly-Alternative, AGPLv3). **Lokale Anpassung nachweisbar:** ein Commit von Giacomo Steckhan – „fix: disable SAML auto-signIn, redirect /auth/login to /auth/admin-login“ (entfernt die `signIn("saml")`-Schleife; Login-Loop-Fix für Self-Hosted-Betrieb ohne SAML). Keine weiteren erkennbaren Code-Änderungen; Sicht auf `apps/` (web, storybook, swagger, docs) entspricht Upstream.
 
 ### caldavsynchronizer
 - Standort Codeberg: https://codeberg.org/gofonia/caldavsynchronizer · Sprachen C# 45.208, XML 283, Markdown 243 · 45.737 LOC, 1.036 Dateien · 1 Commit (README-Update, „Recall.ai blurb“)
