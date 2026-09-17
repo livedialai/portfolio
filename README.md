@@ -118,6 +118,7 @@ Neben der Telefonie-Achse stehen eigene SaaS-Produkte in Betrieb — jeweils mit
 ## WordPress & Web-Ökosystem
 
 - Umfangreiche **WP-Plugin-Suite** (eigene Produkte): Voice-Agent-Plugin mit DID-Zuweisung, Prompt-Editor, Billing; LiveKit-Voice-Widget; SIP-Webphone (SIP.js); Jambonz/mistral-Plugin; Grok-Speech-Plugin; Google-Reviews-Slider; Cloud-Plugin; CalDAV-Buchungs- und Kalender-Widgets (Infomaniak, Meet.bot); gobookme-Plugin-Suite (Buchungs- und Aktivierungs-Endpunkte, Affiliate-Tracking).
+- **Öffentliche KI-Editoren für WordPress (GitHub):** [**WP AI Edit**](https://github.com/livedialai/wp-ai-edit) — KI-Chat direkt im WordPress-Backend: Seiten befüllen, Einstellungen und Plugins ändern, fremde Designs als Vorlage einlesen; inkl. Agentur-Fernzugriff über Anwendungspasswörter und Protokoll. [**WP Agency Edit**](https://github.com/livedialai/wp-agency-edit) — die Zentrale dazu: betreute Kunden-Websites hinterlegen und per KI-Chat von einer Stelle aus bearbeiten; das Sprachmodell läuft zentral.
 - Frontend-Architektur: Astro/React/TSX, Alpine.js/Tailwind; static builds, mehrsprachig (Polylang-fähig, bis 10 Sprachversionen).
 
 ## DevOps & Betrieb — bis zum lauffähigen Betrieb

@@ -732,6 +732,17 @@ Die Familie umfasst insgesamt **12.807 LOC** in vier Entwicklungslinien: (1) GoF
 - Standort Codeberg: https://codeberg.org/gofonia/wp-greview · PHP · 386 LOC · letzter Push 15.07.2026
 - **Google Reviews Slider**: Shortcode `[greviews]`, Daten über serper.dev-API (Place-ID-Finder), Light/Dark-Mode, Sterne-Filter, Auto-Slide mit Hover-Pause, Touch-Swipe, 24h-Cache via WordPress-Transients, GoMeetMe-Push bei Aktivierung
 
+## WP AI Edit & WP Agency Edit — KI-Editoren für WordPress (öffentlich)
+
+**Standort:** GitHub: https://github.com/livedialai/wp-ai-edit · https://github.com/livedialai/wp-agency-edit · **Typ:** Eigenentwicklung (öffentliche Repos mit ZIP-Releases)
+**Sprachen:** PHP, JavaScript
+
+**Funktionsumfang:**
+- **WP AI Edit** — KI-Chat im WordPress-Backend (schwebendes Widget in wp-admin, nicht auf der öffentlichen Website): Seiten befüllen (Block-Markup), Einstellungen setzen, Plugins installieren/aktivieren/konfigurieren, fremde Designs als Vorlage einlesen; Sicherheits-Snapshot vor jeder Änderung und Rollback; die Fähigkeiten laufen über die WordPress-Abilities-API.
+- **Agentur-Fernzugriff:** Eine Agentur-Instanz bedient die Website über HTTPS fern — Zugang über WordPress-Anwendungspasswörter (Kernbestandteil, kein eigenes Schlüsselsystem; Widerruf wirkt sofort); jede Anmeldung und jeder Aufruf werden protokolliert (Zeit, Zugangsname, Route, Status, gekürzte IP).
+- **WP Agency Edit** — Zentrale für betreute Websites: beliebig viele Kunden-Websites mit Adresse und Anwendungspasswort hinterlegen, Verbindung prüfen und per KI-Chat auf der jeweiligen Kundenseite ändern — das Sprachmodell läuft zentral; die Kundenseiten brauchen keinen eigenen API-Zugang (DeepSeek, OpenAI, Mistral, Ollama u. a.).
+- **Bezug:** WP Agency Edit ist das Gegenstück zu WP AI Edit — auf der Kundenseite den Fernzugriff einrichten, in der Zentrale hinterlegen; Installation als ZIP über die GitHub-Releases.
+
 ## Quellen & Methode
 Geprüft wurden: famdata-JSON-Einträge (LOCs, Strukturbäume, README-Auszüge), README.md aller 12 Repos, Plugin-Hauptdateien (Version/Description-Header), Komplett-Diffs (`diff -rq`) zur Dublettenverifikation, `git log` letzte Commits, `includes/`-Klassen- und `assets/`-Strukturen (u. a. `class-proxy.php`, `jambonz-widget.js`, `agent/agent.py`, `token-server.py`), loc_results.json (LOC-Werte bestätigt).
 
