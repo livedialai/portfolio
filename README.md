@@ -28,7 +28,7 @@ Gesucht: **Senior Voice-AI Engineer · AI-Telefonie-Architekt · Produktentwickl
 
 ---
 
-*Kontakt: Weser AI · Thomas Barthel · Lloydstr. 11, 27568 Bremerhaven · [weser-ai.de](https://weser-ai.de) · info@weser-ai.de*
+*Kontakt: Weser AI · Inhaber: Giacomo Steckhan · c/o SourceArt · Fritz-Thiele-Straße 3 · 28279 Bremen-Obervieland · [weser-ai.de](https://weser-ai.de) · info@weser-ai.de*
 
 ---
 
@@ -165,8 +165,8 @@ Entwicklung mit KI-Beschleunigung (4–8×), aber mit eigener Architektur-Verant
 
 ## Kontakt
 
-**Weser AI · Inhaber Thomas Barthel**
-Lloydstr. 11 · 27568 Bremerhaven
+**Weser AI · Inhaber: Giacomo Steckhan**
+c/o SourceArt · Fritz-Thiele-Straße 3 · 28279 Bremen-Obervieland
 📧 info@weser-ai.de · 🌐 [weser-ai.de](https://weser-ai.de)
 
 *Vollständige Portfolio-Dokumentation: [PORTFOLIO.md](PORTFOLIO.md) · Unterlagen auf Anfrage.*
